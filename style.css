@@ -1,0 +1,34 @@
+
+#image { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+#image h1 { 
+   position: absolute; 
+   top: 100px; 
+   left: 50px; 
+   width: 100%; 
+}
+#image1 { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+#image1 h1 { 
+   position: absolute; 
+   top: 100px; 
+   left: 50px; 
+   width: 100%; 
+}
+#image2 { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+#image2 h1 { 
+   position: absolute; 
+   top: 100px; 
+   left: 50px; 
+   width: 100%; 
+}
